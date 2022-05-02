@@ -1,9 +1,3 @@
-/*INTEGRANTES
-- Lubin Ye
-- Valeria Corina Pulido Lozada
-
-Juego de Tenis (version 3)
-*/
 
 #include <iostream>
 #include <cstdlib>
